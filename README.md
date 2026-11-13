@@ -1,2 +1,2 @@
-# Bakal-rska-pr-ca
+# Bakalarska-praca
 Bakalárska semestrálna práca
